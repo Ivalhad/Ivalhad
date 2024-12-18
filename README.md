@@ -11,11 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivalhad&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ivalhad&theme=radical&margin-w=15&margin-h=15" alt="Trophies">
-</p>
-
 ## 🔗 Let's Connect
 - 🌐 Personal Website: [My Portfolio](https://ivalhad.vercel.app/)  
 - 💼 LinkedIn: [Ivan Alif Hadrian](https://www.linkedin.com/in/ivan-alif-hadrian/)  
