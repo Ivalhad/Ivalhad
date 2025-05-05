@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ivan Alif Hadrian
 
 ## 🚀 About Me
-- 🌐 Web Developer | UI/UX Designer  
+- 🌐 Web Developer | UI/UX Designer | Google Cloud Developer
 - 🎓 Informatics Engineering Student at Universitas Lampung  
 - 💡 Open to collaboration and learning new technologies.  
 
