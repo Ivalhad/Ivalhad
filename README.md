@@ -16,7 +16,6 @@
 - 📂 GitHub: [Ivalhad](https://github.com/Ivalhad)
 
 ## 💻 Tech Stack
-## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -26,5 +25,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/NoSQL-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
 </p>
+
 
