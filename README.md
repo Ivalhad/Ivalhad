@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivalhad&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivalhad&show_icons=true&theme=radical" alt="Ivan Hadrian's GitHub Stats" width="48%" />
-</p> -->
 
 ## 🔗 Let's Connect
 - 🌐 Personal Website: [My Portfolio](https://ivalhad.vercel.app/)  
