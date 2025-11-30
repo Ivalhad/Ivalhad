@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://metrics.lecoq.io/Ivalhad?template=classic&base=header,repositories&config.timezone=Asia%2FJakarta" alt="Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivalhad&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🔗 Let's Connect
